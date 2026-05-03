@@ -18,14 +18,15 @@ This project analyzes online retail transaction data to identify revenue trends,
 - Top Countries by Revenue
 
 ## Key Insights
-- Revenue peaks in November, suggesting strong Q4 seasonality.
 - The United Kingdom accounts for the majority of revenue.
 - A small group of customers contributes a large share of total sales.
 
 ## Dashboard
 [View Tableau Dashboard](https://public.tableau.com/views/OnlineRetailSalesAnalysis_17778017021460/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![alt text](DashBoard_ScreenShot.png)
+![!\[!\\[alt text\\](Dashboard 1.png)\](<Dashboard 1.png>)
+](DashBoard_ScreenShot.png)
+
 
 ## Data Source
 Dataset: Online Retail dataset from Kaggle / UCI Machine Learning Repository.
