@@ -29,4 +29,4 @@ This project analyzes online retail transaction data to identify revenue trends,
 
 
 ## Data Source
-Dataset: Online Retail dataset from Kaggle / UCI Machine Learning Repository.
+Dataset: [Online Retail dataset from Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
