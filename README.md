@@ -9,13 +9,22 @@ This project analyzes online retail transaction data to identify revenue trends,
 - SQLite / DB Browser for SQLite
 - Excel/CSV
 
-## Key Metrics
+## Key Structure
+- Overall Sales Overview
+- Customer Value Analysis
+
+## Overall Sales Overview
 - Total Revenue
 - Total Orders
 - Total Customers
 - Monthly Revenue Trend
 - Top Customers by Revenue
 - Top Countries by Revenue
+
+## Customer Value Analysis
+- Income distribution based on customer value
+- Top 10 customer distribution
+- Customer visit repetitiveness
 
 ## Key Insights
 - The United Kingdom accounts for the majority of revenue.
