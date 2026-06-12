@@ -1,7 +1,8 @@
 # Online Retail Sales Analysis Dashboard
 
 ## Project Overview
-This project analyzes online retail transaction data to identify revenue trends, top customers, and country-level sales performance. The dashboard was built using Tableau, with revenue calculated from unit price and quantity.
+This project analyzes online retail transaction data to identify overall sales trends, customer purchasing behavior, and revenue concentration. \
+The analysis was conducted using SQL and Tableau, with revenue calculated by multiplying unit price by quantity.
 
 ## Tools Used
 - SQL
@@ -21,20 +22,28 @@ This project analyzes online retail transaction data to identify revenue trends,
 - Top Customers by Revenue
 - Top Countries by Revenue
 
-## Customer Value Analysis
-- Income distribution based on customer value
-- Top 10 customer distribution
-- Customer visit repetitiveness
+## Customer Value & Retention Analysis
+- Revenue contribution by customer value segment
+- Repeat versus single-visit customer comparison
+- Top 10 customer revenue contribution
+- Customer count and average spending by visit frequency
+
 
 ## Key Insights
-- The United Kingdom accounts for the majority of revenue.
-- A small group of customers contributes a large share of total sales.
+- The United Kingdom contributes the majority of total revenue.
+- Repeat customers generate approximately 94.7% of total revenue.
+- The top 10 customers contribute 16.5% of total revenue.
+- High-value customers account for the largest share of customer revenue.
+- Customers with higher visit frequency tend to have substantially higher average spending.
 
 ## Dashboard
-[View Tableau Dashboard](https://public.tableau.com/views/OnlineRetailSalesAnalysis_17778017021460/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Tableau Dashboard Page 1](https://public.tableau.com/views/OnlineRetailSalesAnalysis_17778017021460/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![!\[!\\[alt text\\](Dashboard 1.png)\](<Dashboard 1.png>)
-](DashBoard_ScreenShot.png)
+[View Tableau Dashboard Page 2](https://public.tableau.com/views/OnlineRetailSalesAnalysisPage2/CustomerValueRetensionAnalysis?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard 1](<Dashboard 1.png>)
+
+![Customer Value & Retension Analysis](<Customer Value & Retension Analysis.png>)
 
 
 ## Data Source
